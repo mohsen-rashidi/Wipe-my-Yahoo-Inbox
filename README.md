@@ -1,7 +1,7 @@
 Wipe-my-Yahoo-Inbox
 ===================
 
-This script will wipe your Yahoo! account`s inbox, permanently. Be aware, this won`t move emails to Trash; just cleans them up for ever! 
+This script will wipe your Yahoo! account\`s inbox, permanently. Be aware, this won\`t move emails to Trash; just cleans them up for ever! 
 
 To use it on Linux, download the script and run following command in Terminal:
 
