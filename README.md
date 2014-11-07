@@ -5,12 +5,12 @@ This script will wipe your Yahoo! account\`s inbox, permanently. Be aware, this 
 
 To use it on Linux, download the script and run following command in Terminal:
 
-'$ python3 wipemyinbox.py'
+`$ python3 wipemyinbox.py`
 
 You can move it to one the included directories in your $PATH variable if you need it once in while. 
 run this to see those directories:
 
-'$ echo $PATH'
+`$ echo $PATH`
 
 run following for adding execution permission and renaming:
 
