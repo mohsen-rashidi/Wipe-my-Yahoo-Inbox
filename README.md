@@ -14,4 +14,4 @@ run this to see those directories:
 
 run following for adding execution permission and renaming:
 
-"$ chmod +x wipemyinbox.py && mv wipemyinbox.py wipemyinbox"
+`$ chmod +x wipemyinbox.py && mv wipemyinbox.py wipemyinbox`
